@@ -1,0 +1,15 @@
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\bin\Debug\net6.0\ListaExemplosArrays.exe
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\bin\Debug\net6.0\ListaExemplosArrays.deps.json
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\bin\Debug\net6.0\ListaExemplosArrays.runtimeconfig.json
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\bin\Debug\net6.0\ListaExemplosArrays.dll
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\bin\Debug\net6.0\ListaExemplosArrays.pdb
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.csproj.AssemblyReference.cache
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.AssemblyInfoInputs.cache
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.AssemblyInfo.cs
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.csproj.CoreCompileInputs.cache
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.dll
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\refint\ListaExemplosArrays.dll
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.pdb
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ListaExemplosArrays.genruntimeconfig.cache
+C:\Users\gabriele.bublitz\source\repos\Aula12-09-2022\ListaExerciciosArrays\ListaExerciciosArrays\obj\Debug\net6.0\ref\ListaExemplosArrays.dll

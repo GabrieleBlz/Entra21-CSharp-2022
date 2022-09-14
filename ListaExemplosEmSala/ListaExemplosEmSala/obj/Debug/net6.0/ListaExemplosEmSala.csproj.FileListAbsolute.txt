@@ -1,0 +1,15 @@
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\bin\Debug\net6.0\ListaExemplosEmSala.exe
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\bin\Debug\net6.0\ListaExemplosEmSala.deps.json
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\bin\Debug\net6.0\ListaExemplosEmSala.runtimeconfig.json
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\bin\Debug\net6.0\ListaExemplosEmSala.dll
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\bin\Debug\net6.0\ListaExemplosEmSala.pdb
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.csproj.AssemblyReference.cache
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.AssemblyInfoInputs.cache
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.AssemblyInfo.cs
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.csproj.CoreCompileInputs.cache
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.dll
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\refint\ListaExemplosEmSala.dll
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.pdb
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ListaExemplosEmSala.genruntimeconfig.cache
+C:\Users\gabriele.bublitz\source\repos\ListaExemplosEmSala\ListaExemplosEmSala\ListaExemplosEmSala\obj\Debug\net6.0\ref\ListaExemplosEmSala.dll
